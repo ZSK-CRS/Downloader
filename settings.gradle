@@ -1,2 +1,3 @@
+include ':zsk-downloader'
 include ':app'
 rootProject.name = "Downloader"
